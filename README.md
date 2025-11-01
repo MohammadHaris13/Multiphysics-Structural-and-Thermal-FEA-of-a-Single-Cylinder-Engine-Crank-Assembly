@@ -185,11 +185,7 @@ Results confirm that the design is:
 
 This multiphysics investigation establishes a **robust foundation for future optimization**, including fatigue, modal, and coupled thermal-structural analyses, thereby contributing to improved reliability and performance of engine components.
 
----
 
-## Reference Report
-For detailed numerical results, contour plots, and visualizations, refer to:  
-📘 [`Crank_Mechanism_FEA_Report.pdf`](./Report/Crank_Mechanism_FEA_Report.pdf)
 
 ---
 
