@@ -202,7 +202,7 @@ It informs design optimization strategies for **enhanced durability, thermal per
 ---
 
 
-### Author
+## Author
 **Mohammad Haris**  
 Final Year B.Tech – Mechanical Engineering  
 VIT-AP,Amaravati   
