@@ -203,9 +203,11 @@ It informs design optimization strategies for **enhanced durability, thermal per
 
 
 ### Author
-**Mohammad Haris**  
-Final Year B.Tech – Mechanical Engineering  
-VIT-AP,Amaravati   
+**Mohammad Haris** — Mechanical Engineer | FEA & CFD Engineer
+
+GitHub: [github.com/MohammadHaris13](https://github.com/MohammadHaris13)
+
+   
 [Linkedin Profile](https://linkedin.com/in/mohammad-haris-13032002) | [Email](mailto:mohammaddharis1303@gmail.com)
 
 
